@@ -3,8 +3,21 @@ title: "2D Art Resources"
 enableToc: true
 ---
 ## Channels
+
 ### Full Painting Process
 
+<table class="align: center">
+    <header>
+        <tr>
+            <th>Hi</th>
+            <th>Another Hi</th>
+        </tr>
+    </header>
+    <body>
+        <td>A table element</td>
+        <td>Another table element</td>
+    </body>
+</table>
 
 |![[image-2023-10-12-20-02-13.bmp\|80]] |[Aleriia V](https://www.youtube.com/channel/UCCfLwgb42V0T4VCbOi-w1FQ)
 |:-:|:-:
@@ -14,6 +27,7 @@ enableToc: true
 |![[image-2023-10-12-20-20-24.bmp\|80]]|[WLOP](https://www.youtube.com/channel/UCPa7bvOg_r54NaQb7GJA9Eg/videos)
 
 ### Tips & Tricks
+
 |![[image-2023-10-12-20-24-42.bmp\|80]]|[Marc Brunet](https://www.youtube.com/channel/UCKtu_JtQCY0yryIy6zK4ZCg/videos)
 |:-:|:-:
 |![[image-2023-10-12-20-24-46.bmp\|80]]|[Trent Kaniuga](https://www.youtube.com/channel/UCmRm1xtLIpBhuWjTyD411pA/playlists)
@@ -33,11 +47,13 @@ enableToc: true
 |![[image-2023-10-12-21-49-44.bmp\|80]]|[hide channel【顔と体の描き方講座】](https://www.youtube.com/channel/UCAcGenBoh-mXpufzPtNh0hg/videos)
 
 ### Fun with 2D
+
 |![[image-2023-10-12-21-55-13.bmp\|80]]|[Ross Draws](https://www.youtube.com/channel/UCLEVrhumRsK67JkP3G4w5cQ/videos)
 |:-:|:-:
 |![[image-2023-10-12-21-56-12.bmp\|80]]|[Art Senpai](https://www.youtube.com/channel/UCAVyJEzu_dbuyy47dS9rPAg)
 
 ## Anatomy
+
 - [Levels of learning anatomy](https://www.youtube.com/watch?v=Jp_g3B2AsTE)
 - [Anatomy with shapes 1](https://www.youtube.com/watch?v=yCfm8N_9A6k)
 - [Anatomy with shapes 2](https://www.youtube.com/watch?v=gl0VUHLJuls)
